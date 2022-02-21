@@ -1,3 +1,11 @@
+boleta-hk
+boleta-hotkey
+boleta-keyboardtrading
+boleta-kb
+boleta-nv
+boleta-abc
+
+
 CompraMercado()
 CompraLimitada()
 VerificaHora()
