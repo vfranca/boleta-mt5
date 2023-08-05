@@ -1,2 +1,5 @@
-# Executáveis
+# exclude files
+*.ex4
 *.ex5
+*.dat
+log.txt
