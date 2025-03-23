@@ -1,2 +1,2 @@
-# boleta-priceaction
-Boleta acessível de price action
+# boleta-mt5
+Aplicativo MetaTrader 5 para roteamento de órdens.  
